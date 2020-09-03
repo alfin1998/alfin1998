@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+Hello! Welcome my profile. My name is Alfin, just a newbie programmer and love learning something new.  
+
+🌱 Web Development i can use:
+- HTML
+- CSS
+- PHP and + Framework: Codeigniter and Laravel
+- Javascript and + Framework: React.js, Vue.js and Adonis.Js
+
+⚡ Game Development i use engine:
+- Unity
+- Buildbox
+- Gamemaker Studio 2 Dekstop
+- RPG Maker 2003 until MV
+
+🔭 Computer Vision(Image Processing and Video) i build using:
+- Visual Studio (C# and sometime using library EmguCV and Accord)
+- Python (OpenCV, Numpy, etc)
+- MATLAB
+
+Thanks for visit :D
+
 
 <!--
 **alfin1998/alfin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
