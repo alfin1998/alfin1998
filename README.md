@@ -15,7 +15,7 @@ Hello! Welcome my profile. My name is Alfin, just a newbie programmer and love l
 - RPG Maker 2003 until MV
 
 🔭 Computer Vision(Image Processing and Video) i build using:
-- Visual Studio (C# and sometime using library EmguCV and Accord)
+- Visual Studio (C# and sometime using library EmguCV, Aforge, and Accord)
 - Python (OpenCV, Numpy, etc)
 - MATLAB
 
