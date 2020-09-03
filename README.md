@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello! Welcome my profile. My name is Alfin, just a newbie programmer and love learning something new.  
-
 🌱 Web Development i can use:
 - HTML
 - CSS
